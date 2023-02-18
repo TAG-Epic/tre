@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "tre"
+version = "0.1.0"
+description = ""
+authors = ["TAG-Epic <tagepicuwu@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+colorama = "^0.4.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
